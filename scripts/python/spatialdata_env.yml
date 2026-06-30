@@ -102,6 +102,7 @@ dependencies:
       - google-crc32c==1.8.0
       - h5py==3.16.0
       - idna==3.18
+      - igraph==1.0.0
       - imagecodecs==2025.11.11
       - imageio==2.37.3
       - importlib-metadata==9.0.0
@@ -176,6 +177,7 @@ dependencies:
       - squidpy==1.8.2
       - statsmodels==0.14.6
       - tblib==3.2.2
+      - texttable==1.7.0
       - threadpoolctl==3.6.0
       - tifffile==2026.3.3
       - toolz==1.1.0
